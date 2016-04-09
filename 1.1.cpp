@@ -1,7 +1,7 @@
 /*
 ID: xenon951
 PROG: test
-LANG: C++ 11
+LANG: C++11
 */
 #include <iostream>
 #include <fstream>

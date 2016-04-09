@@ -1,2 +1,7 @@
 *.filters
 *.vcxproj
+*.obj
+*.tlog
+*.log
+Debug/vc140.pdb
+*.idb
